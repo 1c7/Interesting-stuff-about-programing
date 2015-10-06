@@ -1,1 +1,6 @@
-# Interesting-stuff-about-programing
+## 这里存着一些有关，编程，程序员，等等有意思的东西
+
+
+
+
+#### 2015-10-7
