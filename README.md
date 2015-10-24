@@ -1,13 +1,18 @@
-### 这里放的是有关开发，编程，程序员，总之是技术方面的东西... 以及任何我觉得有意思的东西
+## 这里放的是有关开发，编程，程序员，等等技术方面的, 以及任何我觉得有意思的东西
 最新的放最上面
 
-
+<br/>
+<br/>
+<br/>
+### 2015-10-24
+stackshare  -- 可以看到各个公司的技术栈  -- The tools and services used by some of the world's best startups  
+http://stackshare.io/stacks#    
 
 
 <br/>
 <br/>
 <br/>
-#### 2015-10-7
+### 2015-10-7
 
 ##### 1. (Youtube) Scott Hanselman - "It's not what you read, it's what you ignore"  
 https://www.youtube.com/watch?v=IWPgUn8tL8s   
