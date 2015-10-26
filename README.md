@@ -8,6 +8,8 @@
 stackshare  -- 可以看到各个公司的技术栈  -- The tools and services used by some of the world's best startups  
 http://stackshare.io/stacks#    
 
+做了下统计，数据主要来源 stackshore，然后也用了 google 和 quora 还有 wikipedia  
+
 | 公司名         | 主要后端语言                   | 数据库                     | 服务器 | 公司成立时间 | 说明                         |
 |----------------|--------------------------------|----------------------------|--------|--------------|------------------------------|
 | Uber           | Python + Node.js               |                            |        | 2009年       |                              |
@@ -22,7 +24,7 @@ http://stackshare.io/stacks#
 | Quora          | Python, pylon = pyramid        | MySQL                      | nginx  | 2008年       |                              |
 | eBay           | Java + Oracle                  |                            |        | 1995年       |                              |
 | Dropbox        | Python(查不到用的是什么框架)   | MySQL                      | nginx  | 2008年       |                              |
-| Product Hunt   | Ruby on Rails, Node.js         | PostgreSQL                 |        | 2013年       | https://www.producthunt.com/ |
+| [Product Hunt](https://www.producthunt.com/)   | Ruby on Rails, Node.js         | PostgreSQL                 |        | 2013年       |  |
 | Twitch         | Ruby on Rails                  | PostgreSQL                 |        | 2011年       | 游戏直播                     |
 | 500px          | Python, Node.js, Ruby on rails | MySQL, PostgreSQL, MongoDB |        | 2009年       |                              |
 | Wikipedia      | PHP Node.js                    | MySQL                      | nginx  | 2001年       |                              |
