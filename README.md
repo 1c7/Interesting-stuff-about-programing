@@ -5,21 +5,22 @@
 <br/>
 <br/>
 ### 10月24日-2015
-stackshare  -- 可以看到各个公司的技术栈  -- The tools and services used by some of the world's best startups  
-http://stackshare.io/stacks#    
-
+[Stackshare](http://stackshare.io/stacks#)  -- 可以看到各个公司的技术栈
+   
 做了下统计，数据主要来源 stackshore，然后也用了 google 和 quora 还有 wikipedia  
+
+
 
 | 公司名         | 主要后端语言                   | 数据库                     | 服务器 | 公司成立时间 | 说明                         |
 |----------------|--------------------------------|----------------------------|--------|--------------|------------------------------|
 | Uber           | Python + Node.js               |                            |        | 2009年       |                              |
 | Airbnb         | Ruby on Rails                  |                            |        | 2008年       |                              |
 | Slack          | PHP                            |                            |        |              | 交流工具，用于工作           |
-| Facebook       | PHP, C, C++, Java              |                            |        |              |                              |
+| Facebook       | PHP, C, C++, Java              |                            |        | 2003年10月  |                              |
 | Twitter        | Ruby on Rails                  | MySQL                      |        |              |                              |
 | Netfilx        | Python + Node.js               |                            |        |              |                              |
-| Coursera       | PHP + Python                   | MySQL                      |        |              |                              |
-| Stack Overflow | C# .Net                        |                            |        |              |                              |
+| Coursera       | PHP + Python                   | MySQL                      |        |  2012年4月    |                              |
+| Stack Overflow | C# .Net                        |                            |        |    2008年9月  |                              |
 | Tumblr         | PHP, Scala, Ruby               | MySQL                      | nginx  | 2007年       |                              |
 | Quora          | Python, pylon = pyramid        | MySQL                      | nginx  | 2008年       |                              |
 | eBay           | Java + Oracle                  |                            |        | 1995年       |                              |
@@ -28,10 +29,6 @@ http://stackshare.io/stacks#
 | Twitch         | Ruby on Rails                  | PostgreSQL                 |        | 2011年       | 游戏直播                     |
 | 500px          | Python, Node.js, Ruby on rails | MySQL, PostgreSQL, MongoDB |        | 2009年       |                              |
 | Wikipedia      | PHP Node.js                    | MySQL                      | nginx  | 2001年       |                              |
-|                |                                |                            |        |              |                              |
-|                |                                |                            |        |              |                              |
-|                |                                |                            |        |              |                              |
-
 
 
 <br/>
