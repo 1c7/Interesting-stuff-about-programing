@@ -1,4 +1,4 @@
-## 这里存放有关开发，编程，以及任何我觉得有意思的东西
+## 存放有关开发，编程，以及任何有意思的东西
 新的放上面
 
 <br/>
@@ -45,3 +45,8 @@ https://www.youtube.com/watch?v=IWPgUn8tL8s
   - 不要在早上检查邮件, 不然你会发现你时空旅行到了下午  
   - don't check email in the morning, that's how you time travel to afternoon  
   - 专注于一件事
+
+
+<br/>
+### 好书推荐
+《我编程，我快乐：程序员职业规划之道》 
